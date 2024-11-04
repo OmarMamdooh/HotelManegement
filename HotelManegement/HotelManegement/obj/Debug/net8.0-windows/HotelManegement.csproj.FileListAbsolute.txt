@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\HotelManegement\HotelManegement\bin\Debug\net8.0-windows\HotelManegement.exe
+C:\Users\User\source\repos\HotelManegement\HotelManegement\bin\Debug\net8.0-windows\HotelManegement.deps.json
+C:\Users\User\source\repos\HotelManegement\HotelManegement\bin\Debug\net8.0-windows\HotelManegement.runtimeconfig.json
+C:\Users\User\source\repos\HotelManegement\HotelManegement\bin\Debug\net8.0-windows\HotelManegement.dll
+C:\Users\User\source\repos\HotelManegement\HotelManegement\bin\Debug\net8.0-windows\HotelManegement.pdb
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.Form1.resources
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.AssemblyInfo.cs
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.dll
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\refint\HotelManegement.dll
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.pdb
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.genruntimeconfig.cache
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\ref\HotelManegement.dll
+C:\Users\User\source\repos\HotelManegement\HotelManegement\obj\Debug\net8.0-windows\HotelManegement.Form2.resources
