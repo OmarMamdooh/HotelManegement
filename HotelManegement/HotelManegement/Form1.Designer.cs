@@ -32,6 +32,7 @@
             button1 = new Button();
             Remove_btn = new Button();
             Remove_btnnnn = new Button();
+            Remove_btnnnoon = new Button();
             SuspendLayout();
             // 
             // RoomList
