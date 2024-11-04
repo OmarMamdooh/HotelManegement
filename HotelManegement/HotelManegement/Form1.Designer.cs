@@ -31,6 +31,7 @@
             RoomList = new ListBox();
             button1 = new Button();
             Remove_btn = new Button();
+            Remove_btnnnn = new Button();
             SuspendLayout();
             // 
             // RoomList
