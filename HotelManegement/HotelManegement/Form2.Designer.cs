@@ -35,6 +35,8 @@
             label3 = new Label();
             dateTimePicker2 = new DateTimePicker();
             label4 = new Label();
+            label46 = new Label();
+
             comboBox1 = new ComboBox();
             label5 = new Label();
             comboBox2 = new ComboBox();
