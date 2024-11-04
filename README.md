@@ -1,2 +1,2 @@
 # HotelManegement
-A simple to manage room registration
+A simple app to manage room registration in C# windowsForm
